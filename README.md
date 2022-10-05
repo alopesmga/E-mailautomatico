@@ -1,4 +1,4 @@
-# E-mailautomatico
+# E-mail_automatico
 Exercicio proposto pelo Lira da Hashtag durante o Intensivão de Python
 
 Manda um email com relatorio de vendas automaticamente.
